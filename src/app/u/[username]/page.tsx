@@ -192,7 +192,7 @@ export default function SendMessage() {
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
-      className="container mx-auto my-8 p-6 bg-indigo-900 shadow-lg rounded-lg max-w-3xl" // Changed to blue-900
+      className="container flex flex-row justify-center mx-auto my-8 p-6 bg-indigo-900 shadow-lg rounded-lg max-w-3xl"
     >
       <h1 className="text-4xl font-bold mb-6 text-center text-purple-800">
         Send Anonymous Message
