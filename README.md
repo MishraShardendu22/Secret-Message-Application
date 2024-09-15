@@ -12,20 +12,27 @@ The Anonymous Feedback Application is a sophisticated platform designed to facil
 **Frontend**:
 -    Next.js ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 -    React ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 **Styling**:
 -    Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -    ShadCN ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+
 **Primary Language**
 -    TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 **Backend**:
 -    Nextt.js API routes
+
 **Authentication**:
 -    JWT (JSON Web Tokens)
+
 **Deployment**:
 -    Vercel ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 **Email Services**:
 -    Resend Email Service ![Resend](https://img.shields.io/badge/Resend%20Email%20Service-000000?style=for-the-badge&logo=resend&logoColor=white)
 -    EmailJS ![EmailJS](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logo=emailjs&logoColor=white)
+
 **AI Integration**:
 -    OpenAI
 -    Hugging Face API
