@@ -2,17 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #007bff; /* Define a fallback color */
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #8b2de8;
     --foreground: #ac26ee;
+    --primary: #6c757d; /* Define a fallback color */
   }
 }
 
@@ -22,11 +22,44 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+@layer base {
+  :root {
+    --background: #ffffff;
+    --foreground: #171717;
+    --primary: #007bff;
+    --secondary: #6c757d;
+  }
+  .dark {
+    --background: #343a40;
+    --foreground: #f8f9fa;
+    --primary: #007bff;
+    --secondary: #6c757d;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+  .animate-pulse {
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
 }
+
 
 @layer base {
   :root {
