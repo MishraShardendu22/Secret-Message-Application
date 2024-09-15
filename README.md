@@ -9,13 +9,26 @@ The Anonymous Feedback Application is a sophisticated platform designed to facil
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: Next.js ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), React ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- **Styling**: Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white), ShadCN ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
-- **Backend**: Next.js API routes
-- **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Vercel ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-- **Email Services**: Resend Email Service ![Resend](https://img.shields.io/badge/Resend%20Email%20Service-000000?style=for-the-badge&logo=resend&logoColor=white), EmailJS ![EmailJS](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logo=emailjs&logoColor=white)
-- **AI Integration**: OpenAI / Hugging Face API
+**Frontend**:
+-    Next.js ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+-    React ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Styling**:
+-    Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+-    ShadCN ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+**Primary Language**
+-    TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Backend**:
+-    Nextt.js API routes
+**Authentication**:
+-    JWT (JSON Web Tokens)
+**Deployment**:
+-    Vercel ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Email Services**:
+-    Resend Email Service ![Resend](https://img.shields.io/badge/Resend%20Email%20Service-000000?style=for-the-badge&logo=resend&logoColor=white)
+-    EmailJS ![EmailJS](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logo=emailjs&logoColor=white)
+**AI Integration**:
+-    OpenAI
+-    Hugging Face API
 
 
 ## 🛠 Features
@@ -63,4 +76,17 @@ The Anonymous Feedback Application is a sophisticated platform designed to facil
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Built with ❤️ by [Shardendu Mishra]
+## Future Goals : 
+While this application is fully functional and production-grade, it is currently in the testing phase, and several improvements are planned for future updates. This is just the first phase of development.
+
+**Planned Enhancements:**
+
+1. **Message Acceptance Button:** Currently, the button operates on an optimistic UI/update principle, which can lead to occasional inconsistencies. Future updates will aim to refine this functionality.
+2. **AI Integration:** Due to cost constraints, AI-generated messages are utilized at present. I plan to integrate the Hugging Face API in a more effective manner in future updates.
+3. **Email Service:** I intend to transition to Nodemailer for email services, as it offers a free tier and is expected to enhance the application's performance.
+4. **Google OAuth:** Integration of Google OAuth is on the roadmap to provide users with additional authentication options.
+
+
+Feel free to adjust as needed!
+
+Built with ❤️ by [Shardendu Mishra]()
