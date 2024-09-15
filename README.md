@@ -94,6 +94,4 @@ While this application is fully functional and production-grade, it is currently
 4. **Google OAuth:** Integration of Google OAuth is on the roadmap to provide users with additional authentication options.
 
 
-Feel free to adjust as needed!
-
 Built with ❤️ by [Shardendu Mishra]()
