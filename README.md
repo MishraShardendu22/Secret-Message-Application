@@ -7,16 +7,16 @@ Welcome to the **Anonymous Feedback Application**! This production-grade app all
 ## Overview
 The Anonymous Feedback Application is a sophisticated platform designed to facilitate the exchange of anonymous feedback between users. This production-grade application combines cutting-edge web technologies with AI capabilities to provide a seamless, secure, and engaging user experience. Whether you're looking to receive candid feedback on your work or provide anonymous insights to others, this app is equipped to handle it all efficiently.
 
-## 🚀 Technologies Used
+## 🛠️ Technologies Used
 
-- **Next.js** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- **ShadCN** ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
-- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- **Vercel** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-- **Resend Email Service** ![Resend](https://img.shields.io/badge/Resend%20Email%20Service-000000?style=for-the-badge&logo=resend&logoColor=white)
-- **EmailJS** ![EmailJS](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logo=emailjs&logoColor=white)
-- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- **TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- **Frontend**: Next.js ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), React ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- **Styling**: Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white), ShadCN ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+- **Backend**: Next.js API routes
+- **Authentication**: JWT (JSON Web Tokens)
+- **Deployment**: Vercel ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- **Email Services**: Resend Email Service ![Resend](https://img.shields.io/badge/Resend%20Email%20Service-000000?style=for-the-badge&logo=resend&logoColor=white), EmailJS ![EmailJS](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logo=emailjs&logoColor=white)
+- **AI Integration**: OpenAI / Hugging Face API
+
 
 ## 🛠 Features
 
@@ -27,15 +27,7 @@ The Anonymous Feedback Application is a sophisticated platform designed to facil
 - **Responsive Design:** Built with Tailwind CSS to ensure a responsive and visually appealing interface.
 - **Debouncing:** Optimize performance with debouncing techniques.
 
-## 🛠️ Technologies Used
 
-- **Frontend**: Next.js, React, TypeScript
-- **Styling**: Tailwind CSS, shadcn UI components
-- **Backend**: Next.js API routes
-- **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Vercel
-- **Email Services**: Resend Email service, EmailJS
-- **AI Integration**: OpenAI / Hugging Face API
 
 ## 🚀 Getting Started
 
