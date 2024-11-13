@@ -1,5 +1,4 @@
 // TEST FILE //
-
 interface User {
     id: number;
     name: string;
